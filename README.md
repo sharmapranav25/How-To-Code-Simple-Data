@@ -14,13 +14,13 @@ Understanding our program, we conclude with the idea that we will interpret a nu
     # green- 1
     # yellow- 2
 
-initializing variables
++Initializing variables*
 
       trafficlight= [0, 1, 2]
       ChangeColour=iter(trafficlight)
 
 
-*main body*
+*Main body*
 
     try:
         light= next(ChangeColour)
@@ -36,7 +36,7 @@ initializing variables
         light= next(ChangeColour)
         print("red")
         
- #### Running the main body 
+*Running the main body multiple times*
  
      run1 -> red
      run2 -> green
