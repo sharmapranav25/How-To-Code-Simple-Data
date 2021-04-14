@@ -1,6 +1,6 @@
 # How-To-Code-Simple-Data
 
-## Itemization
+# Itemization
 item.ized: every object considered is assigned an item. In this case, the traffic light colour *Red* has been assigned 0, *Green* -> 1, *Yellow* -> 2.
 
 ### TRAFFIC LIFGT PROBLEM
