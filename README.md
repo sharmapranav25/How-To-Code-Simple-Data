@@ -14,7 +14,7 @@ Understanding our program, we conclude with the idea that we will interpret a IN
     # green- 1
     # yellow- 2
 
-*Initializing variables*
+*Making Constants*
 
       trafficlight= [0, 1, 2]
       ChangeColour=iter(trafficlight)
@@ -58,7 +58,7 @@ Understanding our problem, we can say that we will interpret TIME and give STRIN
         #     interp. time-> LessThan-10 return integer+string
         #     interp. time-> EqualTo-0 return string
         
-*Initializing variables*
+*Making Constants*
 
         time =range(12, 0, -1)
         count= iter(time)
@@ -107,7 +107,7 @@ Understanding our problem, we arrive at the conclusion that we will interpret RO
     #     interp. row:column -> boolean
 
 
-*Data and Initializing Variables*
+*Making Constant Data*
 
 
         import numpy as np
@@ -146,7 +146,7 @@ Understanding our problem, we arrive at the conclusion that we will STRING and g
     #     interp. grade -> higher grade 
     
     
-*Initializing Variables*
+*Making Constants*
 
     grades =['A', 'B', 'C']
     
