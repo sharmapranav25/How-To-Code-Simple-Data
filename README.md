@@ -185,3 +185,27 @@ Understanding our problem, we arrive at the conclusion that we will STRING and g
     bumpUp(grd) -> A
     
     
+# Arbitrary Sized Data
+
+So far we have been working with data that is known. But if we have to store unknown data, or arbitrary sized data, we have to use different data definition. List is an  arbitrary sized data
+
+*Making Variables*
+
+    #Employee data
+    Emp1= list()
+
+*Adding Data To Our Employee Variable*
+
+    
+    Emp1.append("Pranav")
+    Emp1.extend([25, "Male"])
+    
+*Outputs*
+
+
+    ['Pranav', 25, 'Male']
+
+
+
+    
+    
